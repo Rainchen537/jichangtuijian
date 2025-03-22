@@ -10,7 +10,7 @@
 2025 好用的翻墙机场 - SS/SSR/V2ray/Trojan 协议梯子
 ---------------------------------------
 
-ClashSub 博客精选了好用的翻墙机场梯子，支持 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2ray 等多种流行客户端。排名不分先后顺序。建议翻墙者购买月付套餐，满意之后再决定购买更长时间套餐，另外，**一定要有备用的翻墙梯子**，避免完全失联。 ![WgetCloud 机场官网](![image](https://github.com/user-attachments/assets/5cb90bef-07db-4c6a-98ba-6b012e41f0fa)
+ClashSub 博客精选了好用的翻墙机场梯子，支持 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2ray 等多种流行客户端。排名不分先后顺序。建议翻墙者购买月付套餐，满意之后再决定购买更长时间套餐，另外，**一定要有备用的翻墙梯子**，避免完全失联。 ![WgetCloud 机场官网](![image](![image](https://github.com/user-attachments/assets/f215e586-32d9-4e26-af2d-0262ec63db25)
 )  
 ### 1.九霄云机场 全球加速 - 2025 稳定翻墙机场首选
 
@@ -19,7 +19,7 @@ ClashSub 博客精选了好用的翻墙机场梯子，支持 Clash、Shadowrocke
 - SS 协议机场        
 - 高端专线翻墙机场
 - 优惠券9xiaoyyds（9折）
-- [新用户注册9折优惠](https://九九九.吉祥结.中国/#/register)            
+- [前往注册](https://九九九.吉祥结.中国/#/register)            
 
 机场特色
 
